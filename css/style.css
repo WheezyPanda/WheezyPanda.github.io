@@ -1,0 +1,33 @@
+p {
+	font-family: 'Quicksand', sans-serif;
+}
+h1 {
+	font-family: 'Quicksand', sans-serif;
+}
+h2 {
+	font-family: 'Quicksand', sans-serif;
+}
+li {
+	font-family: 'Quicksand', sans-serif;
+	color: #00ffe5;
+}
+h2 {
+	color:#00ffe5;
+}
+h5 {
+	color:#00ffe5;
+}
+
+body {
+	background-image: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative
+}
+h4 {
+	color:#00ffe5;
+}
+p {
+	color:#00ffe5;
+}
